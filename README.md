@@ -56,13 +56,6 @@ Key analyses include:
 
 ---
 
-## Key Insights
-- **Global Case Growth**: Exponential rise in confirmed cases from March 2020 onward.
-- **Country Disparities**: [Country X] had the highest mortality rate ([X]%), likely due to [hypothesis].
-- **Recovery Correlation**: Strong positive correlation (+0.89) between confirmed cases and recoveries.
-
----
-
 ## Tools Used
 - **Python Libraries**: Pandas, Matplotlib, Seaborn, NumPy
 - **Data Sources**: Johns Hopkins CSSE COVID-19 Dataset
@@ -74,4 +67,21 @@ Key analyses include:
 1. Clone this repository:
    ```bash
    git clone https://github.com/SGAMA-77/COVID-19-EDA.git
+2. Navigate into the folder:
+cd COVID-19
+3. Create and activate a virtual environment
+python -m venv venv venv\Scripts\Activate
+4. Install dependencies:
+pip install -r requirements
+
+---
+
+## Usage 
+Run juypter notebook Covid18_EDA.ipynb
+
+---
+
+## License
+MIT Licence
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
    
