@@ -69,7 +69,7 @@ Key analyses include:
    git clone https://github.com/SGAMA-77/COVID-19-EDA.git
 2. Navigate into the folder:
 cd COVID-19
-3. Create and activate a virtual environment
+3. Create and activate a virtual environment:
 python -m venv venv venv\Scripts\Activate
 4. Install dependencies:
 pip install -r requirements
@@ -77,7 +77,7 @@ pip install -r requirements
 ---
 
 ## Usage 
-Run juypter notebook Covid18_EDA.ipynb
+Run juypter notebook Covid19_EDA.ipynb
 
 ---
 
