@@ -73,5 +73,5 @@ Key analyses include:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/covid-19-eda.git
+   git clone https://github.com/SGAMA-77/COVID-19-EDA.git
    
